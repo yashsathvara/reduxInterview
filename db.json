@@ -1,0 +1,18 @@
+{
+  "userData": [
+    {
+      "id": "ae17",
+      "email": "krutik@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ],
+  "item": [
+    {
+      "id": "1",
+      "firstName": "krutik",
+      "lastName": "sathvara",
+      "email": "krutik@gmail.com"
+    }
+  ]
+}
